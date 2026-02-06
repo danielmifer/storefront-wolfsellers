@@ -1,12 +1,12 @@
 {
   "mappings": [
-    "/content/danielmino-boilerplate-commerce-site/:/",
-    "/content/danielmino-boilerplate-commerce-site/configuration:/.helix/config.json",
-    "/content/danielmino-boilerplate-commerce-site/headers:/.helix/headers.json",
-    "/content/danielmino-boilerplate-commerce-site/metadata:/metadata.json",
-    "/content/danielmino-boilerplate-commerce-site.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
+    "/content/rde-boilerplate-commerce-site/:/",
+    "/content/rde-boilerplate-commerce-site/configuration:/.helix/config.json",
+    "/content/rde-boilerplate-commerce-site/headers:/.helix/headers.json",
+    "/content/rde-boilerplate-commerce-site/metadata:/metadata.json",
+    "/content/rde-boilerplate-commerce-site.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
   ],
   "includes": [
-    "/content/danielmino-boilerplate-commerce-site/"
+    "/content/rde-boilerplate-commerce-site/"
   ]
 }
