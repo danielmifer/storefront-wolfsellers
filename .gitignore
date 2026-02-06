@@ -1,3 +1,4 @@
+# Quitar archivos de configuración del seguimiento para tener configs de entornos diferentes
 /paths.json
 /fstab.yaml
 
