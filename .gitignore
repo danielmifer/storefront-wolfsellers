@@ -1,3 +1,6 @@
+paths.json
+fstab.yaml
+
 .hlx/*
 coverage/*
 logs/*
